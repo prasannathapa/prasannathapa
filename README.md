@@ -1,5 +1,5 @@
 ## Hi there 👋
-### About Myself: [Portfolio](http://prasanna-thapa.herokuapp.com/)
+### About Myself: [Portfolio](https://prasannathapa.in/)
 <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
